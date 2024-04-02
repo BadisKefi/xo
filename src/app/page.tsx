@@ -12,31 +12,31 @@ export default function Home() {
           </div>
         </div>
         <div className="grid grid-cols-3 gap-2  w-full lg:h-full lg:w-fit aspect-square">
-          <div className="bg-gray-200 flex items-center justify-center text-4xl">
+          <div className="bg-gray-200 flex items-center justify-center text-4xl hover:bg-violet-400 hover:text-white ">
             X
           </div>
-          <div className="bg-gray-200 flex items-center justify-center text-4xl">
+          <div className="bg-gray-200 flex items-center justify-center text-4xl hover:bg-violet-400 hover:text-white">
             O
           </div>
-          <div className="bg-gray-200 flex items-center justify-center text-4xl">
+          <div className="bg-gray-200 flex items-center justify-center text-4xl hover:bg-violet-400 hover:text-white">
             X
           </div>
-          <div className="bg-gray-200 flex items-center justify-center  text-4xl">
+          <div className="bg-gray-200 flex items-center justify-center  text-4xl hover:bg-violet-400 hover:text-white">
             O
           </div>
-          <div className="bg-gray-200 flex items-center justify-center  text-4xl">
+          <div className="bg-gray-200 flex items-center justify-center  text-4xl hover:bg-violet-400 hover:text-white">
             X
           </div>
-          <div className="bg-gray-200 flex items-center justify-center  text-4xl">
+          <div className="bg-gray-200 flex items-center justify-center  text-4xl hover:bg-violet-400 hover:text-white">
             O
           </div>
-          <div className="bg-gray-200 flex items-center justify-center  text-4xl">
+          <div className="bg-gray-200 flex items-center justify-center  text-4xl hover:bg-violet-400 hover:text-white">
             X
           </div>
-          <div className="bg-gray-200 flex items-center justify-center  text-4xl">
+          <div className="bg-gray-200 flex items-center justify-center  text-4xl hover:bg-violet-400 hover:text-white">
             O
           </div>
-          <div className="bg-gray-200 flex items-center justify-center  text-4xl">
+          <div className="bg-gray-200 flex items-center justify-center  text-4xl hover:bg-violet-400 hover:text-white">
             X
           </div>
         </div>
